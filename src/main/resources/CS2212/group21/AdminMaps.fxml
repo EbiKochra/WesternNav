@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="adminPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="975.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CS2212.group21.MainMapsController">
+   <children>
+      <ImageView fitHeight="980.0" fitWidth="1921.0">
+         <image>
+            <Image url="@interface_ui_images/ADMINVIEW.png" />
+         </image>
+      </ImageView>
+      <ImageView id="mapView" fx:id="mapView" fitHeight="760.0" fitWidth="1172.0" layoutX="36.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../java/CS2212/group21/maps/Advanced_Facility_Avian_Research-1.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="addBuilding" layoutX="1329.0" layoutY="402.0" mnemonicParsing="false" onAction="#addBuilding" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="ADD BUILDING" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="editBuilding" layoutX="1329.0" layoutY="452.0" mnemonicParsing="false" onAction="#editBuilding" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="EDIT BUILDING" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="addPOI" layoutX="1557.0" layoutY="401.0" mnemonicParsing="false" onAction="#addPOI" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="ADD POI" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="removePOI" layoutX="1557.0" layoutY="501.0" mnemonicParsing="false" onAction="#removePOI" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="REMOVE POI" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="addFloor" layoutX="1439.0" layoutY="582.0" mnemonicParsing="false" onAction="#addFloor" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="ADD FLOOR" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="removeFloor" layoutX="1439.0" layoutY="632.0" mnemonicParsing="false" onAction="#removeFloor" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="REMOVE FLOOR" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="removeBuilding1" layoutX="1329.0" layoutY="502.0" mnemonicParsing="false" onAction="#removeBuilding" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="REMOVE BUILDING" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="editPOI" layoutX="1557.0" layoutY="451.0" mnemonicParsing="false" onAction="#editPOI" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="EDIT POI" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+      <ComboBox id="floorsDrop" fx:id="floorsDrop" layoutX="1543.0" layoutY="333.0" onAction="#onFloorsAction" prefHeight="25.0" prefWidth="73.0" style="-fx-background-color: #FAF9F6;" />
+      <ComboBox id="mapsDrop" fx:id="mapsDrop" layoutX="84.0" layoutY="182.0" onAction="#onMapsAction" prefHeight="27.0" prefWidth="248.0" style="-fx-background-color: #FAF9F6;" />
+      <ComboBox id="layersDrop" fx:id="layersDrop" layoutX="418.0" layoutY="182.0" onAction="#onLayersAction" prefHeight="27.0" prefWidth="248.0" style="-fx-background-color: #FAF9F6;" />
+      <ComboBox id="poiDrop" fx:id="poiDrop" layoutX="774.0" layoutY="182.0" onAction="#onpoiAction" prefHeight="27.0" prefWidth="248.0" style="-fx-background-color: #FAF9F6;" />
+      <ComboBox id="favDrop" fx:id="favDrop" layoutX="1245.0" layoutY="182.0" onAction="#onFavAction" prefHeight="27.0" prefWidth="248.0" style="-fx-background-color: #FAF9F6;" />
+      <Button fx:id="logoutButton" layoutX="1650.0" layoutY="47.0" mnemonicParsing="false" onAction="#onLogout" prefHeight="34.0" prefWidth="224.0" style="-fx-background-color: #FAF9F6; -fx-cursor: hand;" text="LOG OUT" textFill="#697596">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="1846.0" layoutY="157.0" mnemonicParsing="false" onAction="#onOpenHelp" style="-fx-background-color: #697596;" text="HELP" textFill="WHITE">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="1603.0" layoutY="717.0" text="London Weather" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="1735.0" layoutY="748.0" text="Feels like:" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="1499.0" layoutY="748.0" text="Current Temperature:" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="1499.0" layoutY="790.0" text="Low:" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="1735.0" layoutY="790.0" text="High:" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="precipStatus" fx:id="precipStatus" alignment="CENTER" contentDisplay="CENTER" layoutX="1603.0" layoutY="812.0" text="Precipitation Status" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="precipDesc" fx:id="precipDesc" alignment="CENTER" contentDisplay="CENTER" layoutX="1603.0" layoutY="846.0" text="Precipitation Description" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="lowTempVal" fx:id="lowTempVal" alignment="CENTER" contentDisplay="CENTER" layoutX="1539.0" layoutY="790.0" text="NA" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="highTempVal" fx:id="highTempVal" alignment="CENTER" contentDisplay="CENTER" layoutX="1780.0" layoutY="791.0" text="NA" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="curTempVal" fx:id="curTempVal" alignment="CENTER" contentDisplay="CENTER" layoutX="1539.0" layoutY="769.0" text="NA" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="feelsTempVal" fx:id="feelsTempVal" alignment="CENTER" contentDisplay="CENTER" layoutX="1780.0" layoutY="769.0" text="NA" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="descText" fx:id="descText" alignment="CENTER" contentDisplay="CENTER" layoutX="1208.0" layoutY="608.0" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label id="descText" alignment="CENTER" contentDisplay="CENTER" layoutX="1208.0" layoutY="576.0" text="Description" textAlignment="CENTER" textFill="#676767">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

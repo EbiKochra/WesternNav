@@ -1,0 +1,2517 @@
+{
+  "buildings": [
+    {
+      "Building": "MiddleSexCollege",
+      "layerType": ["Classroom", "Elevator", "Lab", "CollabSpace", "Washroom"],
+      "floors": [
+        {
+          "floorNum": 0,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "6",
+              "description": "A Classroom",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "17",
+              "description": "A Classroom",
+              "layerType": "Classroom"
+            }
+            ,{
+              "name": "Elevator A",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3B",
+              "description": "An Elevator",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.9",
+              "description": "An Elevator",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "EX.4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.11",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "19",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "19",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.8",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "19",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "Goes up",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "Goes up",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "Goes down twice",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Men Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5",
+              "description": "The mans washroom, two sub rooms 5A and 5B",
+              "layerType": "Washroom"
+            },{
+              "name": "Men Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "28E",
+              "description": "The mans washroom, two sub rooms 5A and 5B",
+              "layerType": "Washroom"
+            },{
+              "name": "Unisex Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4C",
+              "description": "Male Washroom",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4B",
+              "description": "Women Washroom",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 1,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "105B",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "105",
+              "description": "",
+              "layerType": "Classroom"
+            }, {
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "110",
+              "description": "",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "ElEV A",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "TA.106",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "ELEV C",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.109",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Washroom ",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": 278,
+              "description": "A Washroom, require further investigating",
+              "layerType": "Washroom"
+            },
+            {
+              "name": "EX.1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "19",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.9",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "EX.10",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.111",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.11",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.12",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.112",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Men Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "100",
+              "description": "The Womens Washroom",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "139",
+              "description": "The Womens Washroom",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 2,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "204",
+              "description": "A Classroom",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "MC 230",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "230",
+              "description": "24 Capacity, The workstations include Intel Core i5 processor; 16 GB RAM; SSD. The software included is Windows 10, Microsoft office 2016, Adobe CS 6, Audacity and Kompozer",
+              "layerType": "Lab"
+            }, {
+              "name": "MC 235",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "235",
+              "description": "24 Capacity, The workstations include Intel Core i5 processor; 16 GB RAM; SSD. The software included is Windows 10, Microsoft office 2016, Adobe CS 6, Audacity and Kompozer",
+              "layerType": "Lab"
+            }, {
+              "name": "MC 240",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "240",
+              "description": "27 Capacity, The workstations include Intel Core i5 processor; 8 GB RAM; HDD. The software included is Windows 10, Microsoft office 2016, Adobe CS 6, Audacity and Kompozer",
+              "layerType": "Lab"
+            },{
+              "name": "MC 244",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "244",
+              "description": "30 Capacity, 28 general-purpose workstations with Intel Core i5; 16 GB RAM; SSD and 2 GPU workstations with Intel Core i7; 16 GB RAM; SSD, NVIDIA GeForce GTX 1060",
+              "layerType": "Lab"
+            },
+            {
+              "name": "MC 220",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "220",
+              "description": "Capacity: 8, has conference table with 8 seats and a whiteboard",
+              "layerType": "CollabSpace"
+            },{
+              "name": "MC 239",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "239",
+              "description": "Capacity: 4, has conference table with 4 seats and a whiteboard",
+              "layerType": "CollabSpace"
+            },
+            {
+              "name": "Elevator A",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "Ta.208",
+              "description": "Elevator",
+              "layerType": "Navigation"
+            },{
+              "name": "Elevator C",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "Ta.210",
+              "description": "Elevator",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "205",
+              "description": "The Womens Washroom",
+              "layerType": "Washroom"
+            }, {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "278",
+              "description": "A Washroom, require further ",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 3,
+          "pointsOfInterest": [
+            {
+              "name": "MC 300",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "300",
+              "description": "Capacity 16, Seminar Room, Reconfigurable Tables, Motorized projection screen, Mobile whiteboard, A projector may be borrowed from the CS main office if required",
+              "layerType": "Classroom"
+            }, {
+              "name": "MC 316",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "316",
+              "description": "Capacity 30, Has PC(Windows), Projector, VGA/HDMI connectivity, AUdio speakers, motorized projection screen and whiteboards",
+              "layerType": "Classroom"
+            }, {
+              "name": "MC 320",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "320",
+              "description": "Capacity 40, Has PC(windows, Projector, VGA / HDMI connectivity, Audio Speakers, Motorized projection screen, and whiteboards",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "MC 342",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": 342,
+              "description": "20 Capacity, 16 Windows 10 PCs (Intel Core i5, 16 GB RAM; SSD), 2 Mac Minis (macOS Monterey 12.6, Intel Core i7; 16 GB RAM; SSD) 1 loT Station (HDMI connectivity to monitor, USB keyboard/mouse, USB and power outlets to power devices, Network switch), 7 eGPU units with NVIDEO GTX3090 Graphics cards",
+              "layerType": "Lab"
+            },
+            {
+              "name": "Collaborative Space MC 325",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "325",
+              "description": "Capacity 30, Has 3 x collaboratiion pods with 6 seats each, 3 x 50 NEC TVs, Multi-HDMI connectivity, Power connectivity, RFID room access" ,
+              "layerType": "CollabSpace"
+            },
+            {
+              "name": "Elevator A",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "Ta.306",
+              "description": "Elevator",
+              "layerType": "Navigation"
+            },{
+              "name": "Elevator C",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "Ta.309",
+              "description": "Elevator",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "Goes down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "388",
+              "description": "The Womens Washroom",
+              "layerType": "Washroom"
+            }, {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "311",
+              "description": "A Washroom, require further ",
+              "layerType": "Washroom"
+            }
+          ]
+        },{
+          "floorNum": 4,
+          "pointsOfInterest": [
+            {
+              "name": "Elevator C",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "Ta.401",
+              "description": "Elevator",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "Goes up and down",
+              "layerType": "Navigation"
+            }, {
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "Goes down",
+              "layerType": "Navigation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Building": "SocialScienceCenter",
+      "floors": [
+        {
+          "floorNum": 1,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 1004",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "1004",
+              "description": "",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "Lab 1314",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "1314",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Classroom 1310",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "1310",
+              "description": "",
+              "layerType": "Lab"
+            },
+
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.120",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.130",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator E",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.101",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Exit #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.100",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.102",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #8",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.129",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #9",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #10",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.143",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #11",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.120",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #13",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #14",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1207",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #16",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.124",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #17",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.111",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #19",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1122",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.102",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.108",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "",
+              "layerType": "Navigation"
+            }, {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #10",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.128",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1203",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1216",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1001",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "1002",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 2,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 2020",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2020",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 2024",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2024",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 2028",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2028",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 2032",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2032",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 2036",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2036",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 2050",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "2050",
+              "description": "",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.220",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.233",
+              "description": "",
+              "layerType": "Elevator"
+            }, {
+              "name": "Elevator E",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.202",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Exit #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.200",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.232",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #12",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.220",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Exit #15",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.221",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.208",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.205",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #10",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.221",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "2204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "2201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "2002",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "2001",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 3,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 3018",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3018",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3022",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3022",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3024",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3024",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3014",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3014",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3026",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3026",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3010",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3010",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3006",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3006",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3028",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3028",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3103",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3103",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3107",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3107",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Classroom 3120",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3120",
+              "description": "",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "Lab 3224",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3224",
+              "description": "",
+              "layerType": "Lab"
+            }, {
+              "name": "Lab 3254",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3254",
+              "description": "",
+              "layerType": "Lab"
+            }, {
+              "name": "Lab 3418",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3418",
+              "description": "",
+              "layerType": "Lab"
+            },
+            {
+              "name": "Seminar Room 3102",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "3102",
+              "description": "",
+              "layerType": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.320",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.332",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator E",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.300",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Exit #18",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.313",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.307",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.304",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #10",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.321",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Gender NEutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3318",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3001",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "3002",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 4,
+          "pointsOfInterest": [
+            {
+              "name": "Seminar Room 4103",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4103",
+              "description": "",
+              "layerType": "CollabSpace"
+            },{
+              "name": "Seminar Room 4105",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4105",
+              "description": "",
+              "layerType": "CollabSpace"
+            },{
+              "name": "Seminar Room 4107",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4107",
+              "description": "",
+              "layerType": "CollabSpace"
+            },{
+              "name": "Seminar Room 4109",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4109",
+              "description": "",
+              "layerType": "CollabSpace"
+            },{
+              "name": "Seminar Room 4317",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4317",
+              "description": "",
+              "layerType": "CollabSpace"
+            },{
+              "name": "Seminar Room 4255",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4255",
+              "description": "",
+              "layerType": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.420",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.432",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator E",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.401",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.406",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.404",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "",
+              "layerType": "Navigation"
+            }, {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4201",
+              "description": "",
+              "layerType": "Washroom"
+            }, {
+              "name": "Gender Neutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4318",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4002",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "4001",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 5,
+          "pointsOfInterest": [
+            {
+              "name": "Seminar Room 5230",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5230",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Seminar Room 5235",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5235",
+              "description": "",
+              "layerType": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.520",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.532",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5001",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.3",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Gender Neutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "5318",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 6,
+          "pointsOfInterest": [
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.620",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.632",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "6204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "6201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Gender Neutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "6318",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 7,
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 7210",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "7210",
+              "description": "",
+              "layerType": "Classroom"
+            },
+            {
+              "name": "Classroom 7200",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "7200",
+              "description": "",
+              "layerType": "Classroom"
+            },{
+              "name": "Seminar Room 7236",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "7236",
+              "description": "",
+              "layerType": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.720",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.732",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "7204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "7201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Gender Neutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8351",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Gender Neutral Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "7318",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 8,
+          "pointsOfInterest": [
+            {
+              "name": "Lab 8215",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8215",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8230",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8230",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8234",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8234",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8235",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8235",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8237",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8237",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8238",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8238",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8240",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8240",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8242",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8242",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 8305",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8305",
+              "description": "",
+              "layerType": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.820",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.836",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "8201",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 9,
+          "pointsOfInterest": [
+            {
+              "name": "Lab 9214",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9214",
+              "description": "",
+              "layerType": "Lab"
+            },{
+              "name": "Lab 9214",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9215",
+              "description": "",
+              "layerType": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.920",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Elevator C/D",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.933",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.4",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.5",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.6",
+              "description": "",
+              "layerType": "Elevator"
+            },{
+              "name": "Stairway #7",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.7",
+              "description": "",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9204",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9201",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9426",
+              "description": "",
+              "layerType": "Washroom"
+            },{
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "9428",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        }
+      ]
+    }, {
+      "Building": "AvianResearch",
+      "amountOfFloors": 2,
+      "floors": [
+        {
+          "floorNum": 1,
+          "pointsOfInterest": [
+            {
+              "name": "Elevator 1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.101",
+              "description": "The only elevator",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.100",
+              "description": "Goes up ",
+              "layerType":"Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes up and down",
+              "layerType":"Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "140B",
+              "description": "The stairway in the wind tunnel",
+              "layerType":"Navigation"
+            },{
+              "name": "Stairway #4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "150B",
+              "description": "The stiarway in the mechanical",
+              "layerType":"Navigation"
+            },
+            {
+              "name": "EX.1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.100",
+              "description": "A door",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.102",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.4",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "150B",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.5",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "114",
+              "description": "",
+              "layerType": "Navigation"
+            },{
+              "name": "EX.6",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "140B",
+              "description": "",
+              "layerType": "Navigation"
+            },
+            {
+              "name": "A Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 136,
+              "yCord": 227,
+              "roomNum": "102A",
+              "description": "",
+              "layerType": "Washroom"
+            }
+          ]
+        },
+        {
+          "floorNum": 2,
+          "pointsOfInterest": [
+            {
+              "name": "Lab",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "225",
+              "description": "",
+              "layerType": "Lab"
+            }, {
+              "name": "Elevator 1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "TA.201",
+              "description": "The only elevator",
+              "layerType": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.1",
+              "description": "Goes up ",
+              "layerType":"Navigation"
+            },{
+              "name": "Stairway #2",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "ST.2",
+              "description": "Goes up and down",
+              "layerType":"Navigation"
+            },{
+              "name": "Stairway #3",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "140B-2",
+              "description": "The stairway in the wind tunnel",
+              "layerType":"Navigation"
+            },
+            {
+              "name": "Women Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "214",
+              "description": "",
+              "layerType":"Washroom"
+            }, {
+              "name": "Male Washroom",
+              "visibility": true,
+              "favourite": false,
+              "xCord": 0,
+              "yCord": 0,
+              "roomNum": "212",
+              "description": "",
+              "layerType":"Washroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

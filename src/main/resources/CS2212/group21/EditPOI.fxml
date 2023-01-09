@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="567.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CS2212.group21.EditPOIController">
+    <children>
+        <ImageView fitHeight="400.0" fitWidth="567.0">
+            <image>
+                <Image url="@interface_ui_images/EDITPOI.png" />
+            </image>
+        </ImageView>
+        <Button fx:id="button_login" layoutX="114.0" layoutY="240.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="134.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="CONFIRM" textAlignment="CENTER" textFill="WHITE">
+            <effect>
+                <Blend />
+            </effect>
+            <font>
+                <Font name="Arial Rounded MT Bold" size="10.0" />
+            </font>
+        </Button>
+        <Button fx:id="button_login1" layoutX="332.0" layoutY="240.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="134.0" style="-fx-background-color: #697596; -fx-cursor: hand;" text="CANCEL" textAlignment="CENTER" textFill="WHITE">
+            <effect>
+                <Blend />
+            </effect>
+            <font>
+                <Font name="Arial Rounded MT Bold" size="10.0" />
+            </font>
+        </Button>
+        <TextField fx:id="name" layoutX="181.0" layoutY="184.0" prefHeight="15.0" prefWidth="104.0" promptText="RENAME POI">
+            <font>
+                <Font name="Arial Rounded MT Bold" size="8.0" />
+            </font>
+        </TextField>
+        <TextField fx:id="desc" layoutX="181.0" layoutY="206.0" prefHeight="15.0" prefWidth="104.0" promptText="ENTER DESCRIPTION">
+            <font>
+                <Font name="Arial Rounded MT Bold" size="8.0" />
+            </font>
+        </TextField>
+        <TextField fx:id="roomNum" layoutX="293.0" layoutY="206.0" prefHeight="15.0" prefWidth="115.0" promptText="ENTER ROOM NUMBER">
+            <font>
+                <Font name="Arial Rounded MT Bold" size="8.0" />
+            </font>
+        </TextField>
+        <TextField fx:id="layerType" layoutX="293.0" layoutY="184.0" prefHeight="16.0" prefWidth="115.0" promptText="ENTER LAYER TYPE">
+            <font>
+                <Font name="Arial Rounded MT Bold" size="8.0" />
+            </font>
+        </TextField>
+    </children>
+</AnchorPane>

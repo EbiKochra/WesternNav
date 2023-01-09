@@ -1,0 +1,12 @@
+[{"password":"pw123","favourites":[],"admin":"true","username":"Paul","userPOIs":[]},
+{"password":"ho","favourites":[],"admin":"false","username":"Josh","userPOIs":[]},
+{"password":"pw3","favourites":[{"layerType":"Elevator","visibility":true,"roomNum":"TA.520","name":"Elevator A\/B","description":"An Elevator","favourite":true,"builtInPOI":true,"xCord":678,"yCord":573,"building":"SocialScienceCenter","floorNum":4}],"admin":"false","username":"Peter","userPOIs":[{"layerType":"Default","roomNum":"DefaultRoomNum","visibility":true,"name":"Default POI Name","description":"DefaultDescrip","favourite":false,"builtInPOI":false,"xCord":0,"building":"SocialScienceCenter","floorNum":4,"yCord":0},{"layerType":"Default","roomNum":"DefaultRoomNum","visibility":true,"name":"Default POI Name","description":"DefaultDescrip","favourite":false,"builtInPOI":false,"xCord":0,"building":"SocialScienceCenter","floorNum":4,"yCord":0},{"layerType":"Default","roomNum":"DefaultRoomNum","visibility":true,"name":"Default POI Name","description":"DefaultDescrip","favourite":false,"builtInPOI":false,"xCord":0,"building":"MiddleSexCollege","floorNum":0,"yCord":0},{"layerType":"Classroom","visibility":true,"roomNum":"654","name":"New POI","description":"AAAAAAAa","favourite":false,"xCord":444,"builtInPOI":false,"building":"Middlesex","yCord":555}]},
+{"password":"Dummy","favourites":[],"admin":"false","username":"Test","userPOIs":[]},
+{"password":"Derulo","favourites":[],"admin":"false","username":"Jason","userPOIs":[]},
+{"password":"Admin123","favourites":[],"admin":"true","username":"Admin","userPOIs":[]},
+{"password":"awdawd","favourites":[],"admin":"false","username":"dwad","userPOIs":[]},
+{"password":"cooks","favourites":[],"admin":"false","username":"Jimmy","userPOIs":[]},
+{"password":"King","favourites":[],"admin":"false","username":"Walter","userPOIs":[]},
+{"password":"pw123","favourites":[],"admin":"false","username":"Sarah","userPOIs":[]},
+{"password":"","favourites":[],"admin":"false","username":"","userPOIs":[]},
+{"password":"jas","favourites":[],"admin":"false","username":"jas","userPOIs":[]}]

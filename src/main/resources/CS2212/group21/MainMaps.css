@@ -1,0 +1,27 @@
+.button {
+    -fx-background-color: #697596;
+    -fx-font-family: Arial-Rounded-MT;
+    -fx-font-weight: Bold;
+    -fx-text-fill: White;
+}
+
+.combo-box {
+    -fx-background-color: #697596;
+    -fx-font-family: Arial-Rounded-MT;
+    -fx-font-weight: Bold;
+    -fx-text-fill: Black; /* doesnt work */
+}
+
+.combo-box > .combo-box-popup > .list-view > .list-cell {
+    -fx-text-fill: Black;
+}
+
+/* applies to first cell */
+.combo-box > .list-cell {
+    -fx-text-fill: Black;
+}
+
+.label {
+    -fx-font-family: Arial-Rounded-MT;
+    -fx-text-fill: Black;
+}

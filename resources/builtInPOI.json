@@ -1,0 +1,2439 @@
+{
+  "buildings": [
+    {
+      "Building": "MiddleSexCollege",
+      "layer": [
+        "Class",
+        "Elevator",
+        "Lab",
+        "Navi",
+        "CollabSpace",
+        "Washroom"
+      ],
+      "floors": [
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "6",
+              "layer": "Class"
+            },
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "17",
+              "layer": "Class"
+            },
+            {
+              "name": "Elevator A",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3B",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.9",
+              "layer": "Elevator"
+            },
+            {
+              "name": "EX.4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.11",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "19",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "19",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.8",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "19",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Men Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Men Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "28E",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Unisex Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4C",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4B",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "105B",
+              "layer": "Class"
+            },
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "105",
+              "layer": "Class"
+            },
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "110",
+              "layer": "Class"
+            },
+            {
+              "name": "ElEV A",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "TA.106",
+              "layer": "Elevator"
+            },
+            {
+              "name": "ELEV C",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.109",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Washroom ",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": 278,
+              "layer": "Washroom"
+            },
+            {
+              "name": "EX.1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "19",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.9",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.10",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.111",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.11",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.12",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.112",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Men Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "100",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "139",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Class",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "204",
+              "layer": "Class"
+            },
+            {
+              "name": "MC 230",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "230",
+              "layer": "Lab"
+            },
+            {
+              "name": "MC 235",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "235",
+              "layer": "Lab"
+            },
+            {
+              "name": "MC 240",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "240",
+              "layer": "Lab"
+            },
+            {
+              "name": "MC 244",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "244",
+              "layer": "Lab"
+            },
+            {
+              "name": "MC 220",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "220",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "MC 239",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "239",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Elevator A",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "Ta.208",
+              "layer": "Navi"
+            },
+            {
+              "name": "Elevator C",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "Ta.210",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "205",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "278",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "MC 300",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "300",
+              "layer": "Class"
+            },
+            {
+              "name": "MC 316",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "316",
+              "layer": "Class"
+            },
+            {
+              "name": "MC 320",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "320",
+              "layer": "Class"
+            },
+            {
+              "name": "MC 342",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": 342,
+              "layer": "Lab"
+            },
+            {
+              "name": "Collaborative Space MC 325",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "325",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Elevator A",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "Ta.306",
+              "layer": "Navi"
+            },
+            {
+              "name": "Elevator C",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "Ta.309",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "388",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "311",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Elevator C",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "Ta.401",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Building": "SocialScienceCenter1",
+      "floors": [
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 1004",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "1004",
+              "layer": "Class"
+            },
+            {
+              "name": "Lab 1314",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "1314",
+              "layer": "Lab"
+            },
+            {
+              "name": "Classroom 1310",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "1310",
+              "layer": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.120",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.130",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator E",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.101",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Exit #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.100",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.102",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #8",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.129",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #9",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #10",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.143",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #11",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.120",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #13",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #14",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1207",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #16",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.124",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #17",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.111",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #19",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1122",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.102",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.108",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #10",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.128",
+              "layer": "Navi"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1203",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1216",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1001",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "1002",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 2020",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2020",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 2024",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2024",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 2028",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2028",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 2032",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2032",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 2036",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2036",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 2050",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "2050",
+              "layer": "Class"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.220",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.233",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator E",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.202",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Exit #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.200",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.232",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #12",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.220",
+              "layer": "Navi"
+            },
+            {
+              "name": "Exit #15",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.221",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.208",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.205",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #10",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.221",
+              "layer": "Navi"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "2204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "2201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "2002",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "2001",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 3018",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3018",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3022",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3022",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3024",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3024",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3014",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3014",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3026",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3026",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3010",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3010",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3006",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3006",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3028",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3028",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3103",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3103",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3107",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3107",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 3120",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3120",
+              "layer": "Class"
+            },
+            {
+              "name": "Lab 3224",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3224",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 3254",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3254",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 3418",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3418",
+              "layer": "Lab"
+            },
+            {
+              "name": "Seminar Room 3102",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "3102",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.320",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.332",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator E",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.300",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Exit #18",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.313",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.307",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.304",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #10",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.321",
+              "layer": "Navi"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender NEutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3318",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3001",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "3002",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Seminar Room 4103",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4103",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Seminar Room 4105",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4105",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Seminar Room 4107",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4107",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Seminar Room 4109",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4109",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Seminar Room 4317",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4317",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Seminar Room 4255",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4255",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.420",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.432",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator E",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.401",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.406",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.404",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Navi"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender Neutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4318",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4002",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "4001",
+              "layer": "Washroom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Building": "SocialScience2",
+      "amountOfFloors": 5,
+      "floors": [
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Seminar Room 5230",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5230",
+              "layer": "Lab"
+            },
+            {
+              "name": "Seminar Room 5235",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5235",
+              "layer": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.520",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.532",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5001",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.3",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Navi"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender Neutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "5318",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.620",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.632",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "6204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "6201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender Neutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "6318",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Classroom 7210",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "7210",
+              "layer": "Class"
+            },
+            {
+              "name": "Classroom 7200",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "7200",
+              "layer": "Class"
+            },
+            {
+              "name": "Seminar Room 7236",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "7236",
+              "layer": "CollabSpace"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.720",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.732",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "7204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "7201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender Neutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8351",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Gender Neutral Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "7318",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Lab 8215",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8215",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8230",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8230",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8234",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8234",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8235",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8235",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8237",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8237",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8238",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8238",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8240",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8240",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8242",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8242",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 8305",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8305",
+              "layer": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.820",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.836",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "8201",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Lab 9214",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9214",
+              "layer": "Lab"
+            },
+            {
+              "name": "Lab 9214",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9215",
+              "layer": "Lab"
+            },
+            {
+              "name": "Elevator A/B",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.920",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Elevator C/D",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.933",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.4",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.5",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.6",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #7",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.7",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9204",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9201",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9426",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "9428",
+              "layer": "Washroom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Building": "AvianResearch",
+      "amountOfFloors": 2,
+      "floors": [
+        {
+          "pointsOfInterest": [
+            {
+              "name": "Elevator 1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.101",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.100",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "140B",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "150B",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.100",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.102",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.4",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "150B",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.5",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "114",
+              "layer": "Navi"
+            },
+            {
+              "name": "EX.6",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "140B",
+              "layer": "Navi"
+            },
+            {
+              "name": "A Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 136,
+              "yVal": 227,
+              "room#": "102A",
+              "layer": "Washroom"
+            }
+          ]
+        },
+        {
+
+          "pointsOfInterest": [
+            {
+              "name": "Lab",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "225",
+              "layer": "Lab"
+            },
+            {
+              "name": "Elevator 1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "TA.201",
+              "layer": "Elevator"
+            },
+            {
+              "name": "Stairway #1",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.1",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #2",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "ST.2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Stairway #3",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "140B-2",
+              "layer": "Navi"
+            },
+            {
+              "name": "Women Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "214",
+              "layer": "Washroom"
+            },
+            {
+              "name": "Male Washroom",
+              "visible": true,
+              "Fav": false,
+              "xVal": 0,
+              "yVal": 0,
+              "room#": "212",
+              "layer": "Washroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
