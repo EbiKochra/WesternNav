@@ -27,10 +27,11 @@
 3. `mvn package`
 4. Run "LoginGUI.java" through your IDE/command line
 5. Or `java -jar LoginGUI.java`
+6. Use username "Paul" with password "pw123" for admin account
 
 # Collaborators:
 - Jason Kwan
 - Matthew Tennant
 - Zeshan Ahmed
 - Paul Jang
-- Muhammad Kochra
+- Muhammad Ebrahim
