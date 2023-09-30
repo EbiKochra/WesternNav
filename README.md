@@ -17,7 +17,7 @@
 # Dependencies
 - Java 19
 - org.json
-- Gson
+- Json
 - JUnit
 - JavaFX
 
